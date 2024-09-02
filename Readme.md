@@ -32,7 +32,7 @@ Solana Shores is just getting started! Here's what's coming next:
 
 ## Video Demonstration
 
-*Note: I would have liked to include a video demonstration of minting a token and claiming SOL for a run using a random wallet. This feature would showcase the seamless integration and reward system within the game. 
+*Note: I would have liked to include a video demonstration of minting a token and claiming SOL for a run using a random wallet. This feature would showcase the seamless integration and reward system within the game.* 
 
 1. Minting a NFT after a run:
 
