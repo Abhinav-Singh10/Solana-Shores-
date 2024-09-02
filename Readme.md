@@ -40,7 +40,7 @@ Solana Shores is just getting started! Here's what's coming next:
 
 2. Claims SOL in exchange for coins:
 
-[![Mint Video](image-url)](https://www.youtube.com/watch?v=8wdvOekKB0o)
+[![SOL Claim Video](image-url)](https://www.youtube.com/watch?v=8wdvOekKB0o)
 
 
 *Currently players can do either one of this at a time, claim sols for coins or mint an NFT. For re-runs refresh is needed*
