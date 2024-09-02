@@ -36,11 +36,11 @@ Solana Shores is just getting started! Here's what's coming next:
 
 1. Minting a NFT after a run:
 
-<video controls src="demos/Minting Demo.mp4" title="Minting NFT Demo"></video>
+<video controls src="https://youtu.be/ccI3X_N_0EQ" title="Minting NFT Demo"></video>
 
 2. Claims SOL in exchange for coins:
 
-<video controls src="demos/Claiming Sol demo.mp4" title="Title"></video>
+<video controls src="https://youtu.be/8wdvOekKB0o" title="Title"></video>
 
 *Currently players can do either one of this at a time, claim sols for coins or mint an NFT. For re-runs refresh is needed*
 
