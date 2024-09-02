@@ -1,0 +1,53 @@
+# Solana Shores
+
+Solana Shores is an exciting game I developed for the 100xDevs Solana Mini Hackathon. Built on the Godot Game Engine, this game offers players the thrill of exploration, collection, and rewards, all while seamlessly integrating with Solana's wallet ecosystem.
+
+## Getting Started
+
+Players can jump straight into the action by connecting their Solana wallet through the built-in wallet adapter. Upon successful login, a new game session begins automatically, immersing you in the world of Solana Shores.
+
+## Gameplay
+
+### Objectives
+- **Collect Items:** As you navigate through the game, collect diamonds, potions, keys for chests, and, most importantly, coins.
+- **Avoid Hazards:** Watch out for spikes and other obstacles that can damage your character.
+- **Claim Rewards:** At the end of each run, cash in the number of coins you've collected. For every 100 coins, you'll receive a corresponding amount of SOL in your player account.
+
+### Unique Achievement Tokens
+
+Solana Shores rewards players with exclusive NFTs based on their in-game performance. Currently, four unique tokens are available for minting:
+
+1. **Early Adopter Token:** Granted for finishing each run, rewarding your participation.
+2. **Coin Collector Token:** Awarded for collecting the maximum amount of coins (99 coins) in a single run.
+3. **Completionist Token:** Earned by gathering every collectible available in the game.
+4. **SpeedRunner Token:** Minted when you finish a run in under 30 seconds.
+
+## Future Plans
+
+Solana Shores is just getting started! Here's what's coming next:
+- **Combat System:** Engage in battles as you progress through the game.
+- **Save System:** Save your progress and pick up right where you left off.
+- **More NFTs:** Additional achievement tokens and collectible items will be added to the game.
+- **New Levels:** Explore new areas and challenges as we expand the world of Solana Shores.
+
+## Video Demonstration
+
+*Note: I would have liked to include a video demonstration of minting a token and claiming SOL for a run using a random wallet. This feature would showcase the seamless integration and reward system within the game. 
+
+1. Minting a NFT after a run:
+
+<video controls src="demos/Minting Demo.mp4" title="Minting NFT Demo"></video>
+
+2. Claims SOL in exchange for coins:
+
+<video controls src="demos/Claiming Sol demo.mp4" title="Title"></video>
+
+*Currently players can do either one of this at a time, claim sols for coins or mint an NFT. For re-runs refresh is needed*
+
+## Contributing
+
+We welcome contributions to Solana Shores! Whether you're a developer, designer, or player with great ideas, your input is valuable. Feel free to open issues or submit pull requests on our [GitHub repository](https://github.com/Abhinav-Singh10/Solana-Shores-).
+
+## Special Thanks
+
+Huge thanks to GodotSolanaSDKDemoPackage by Zen Republic without which this game would not have been possible
