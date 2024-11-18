@@ -10,6 +10,11 @@ https://earn.superteam.fun/listings/bounty/100xdevs-solana-mini-hackathon-1/
 
 ## Getting Started
 
+1. Get phantom wallet in order to play the game: https://phantom.app/download
+2. Setup the wallet and turn on the developer mode --> testnet from the settings menu
+3. Add test funds to the wallet : https://faucet.solana.com/
+4. Open the game link and click connect wallet --> accept the pop-up --> Start Playing 🔥
+
 Players can jump straight into the action by connecting their Solana wallet through the built-in wallet adapter. Upon successful login, a new game session begins automatically, immersing you in the world of Solana Shores.
 
 ## Gameplay
