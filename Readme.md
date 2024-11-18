@@ -2,6 +2,12 @@
 
 Solana Shores is an exciting game I developed for the 100xDevs Solana Mini Hackathon. Built on the Godot Game Engine, this game offers players the thrill of exploration, collection, and rewards, all while seamlessly integrating with Solana's wallet ecosystem.
 
+🎉🎉
+This project got 4th place in the 100xDevs Solana Mini Hackathon:
+https://earn.superteam.fun/feed/submission/b5bdbcc1-4d6d-4704-9c56-d07174d38871/
+https://earn.superteam.fun/listings/bounty/100xdevs-solana-mini-hackathon-1/
+
+
 ## Getting Started
 
 Players can jump straight into the action by connecting their Solana wallet through the built-in wallet adapter. Upon successful login, a new game session begins automatically, immersing you in the world of Solana Shores.
