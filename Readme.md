@@ -4,8 +4,10 @@ Solana Shores is an exciting game I developed for the 100xDevs Solana Mini Hacka
 
 🎉🎉
 This project got 4th place in the 100xDevs Solana Mini Hackathon:
-https://earn.superteam.fun/feed/submission/b5bdbcc1-4d6d-4704-9c56-d07174d38871/
 https://earn.superteam.fun/listings/bounty/100xdevs-solana-mini-hackathon-1/
+https://earn.superteam.fun/feed/submission/b5bdbcc1-4d6d-4704-9c56-d07174d38871/
+
+Godot Repo Link (This repo consists of the build files, For the actual godot files check this link): https://github.com/Abhinav-Singh10/Original-Godot-Files-Solana-Shores
 
 
 ## Getting Started
